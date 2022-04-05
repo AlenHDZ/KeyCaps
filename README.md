@@ -25,11 +25,18 @@ entsprechenden Tasten wählen. Der Preis wird dabei aufaddiert.
 
 Damit die Grafik generiert werden kann, müssen die Modelle mit ihren verschiedenen Layouts
 (US, DE, ...) gespeichert werden. Die Position und Größe der Taste muss ebenfalls abrufbar sein.
+Die Tastatur kann z. B. wie auf
+[www.daskeyboard.com](https://www.daskeyboard.com/blog/qwerty-vs-dvorak-vs-colemak-keyboard-layouts/)
+dargestellt werden:
+
+![](keyboards.png)
 
 Der Kunde soll sich durch eine Neuanmeldung mit Name und E-Mail anmelden können. Danach bekommt
 er die Zugangsdaten per Mail geschickt. Der Webshop besteht aus 2 Bereichen:
 
 - Auswahl der Tasten
 - Ansehen des Bestellstatus
-- Optional: Hochladen einer eigenen Grafik, die dann in S/W umgewandelt
+- Optional: Hochladen einer eigenen Grafik für ein Key Cap, die dann in S/W umgewandelt
   und zur Kontrolle angezeigt wird.
+- Optional: Erfassen einer neuen Tastatur, die in der Applikation gezeichnet wird.
+
