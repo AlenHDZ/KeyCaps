@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyCaps.Webapp", "KeyCaps.Webapp\KeyCaps.Webapp.csproj", "{841A37A4-A1C5-4278-8F7F-71E54742442E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyCaps.Application", "KeyCaps.Application\KeyCaps.Application.csproj", "{4BCE5867-D5BC-46A6-9AF5-F15A30A5C0E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyCaps.Test", "KeyCaps.Test\KeyCaps.Test.csproj", "{2F4DA631-BB99-4718-8EFD-38D1569692A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{841A37A4-A1C5-4278-8F7F-71E54742442E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841A37A4-A1C5-4278-8F7F-71E54742442E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841A37A4-A1C5-4278-8F7F-71E54742442E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841A37A4-A1C5-4278-8F7F-71E54742442E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BCE5867-D5BC-46A6-9AF5-F15A30A5C0E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BCE5867-D5BC-46A6-9AF5-F15A30A5C0E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BCE5867-D5BC-46A6-9AF5-F15A30A5C0E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BCE5867-D5BC-46A6-9AF5-F15A30A5C0E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F4DA631-BB99-4718-8EFD-38D1569692A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4DA631-BB99-4718-8EFD-38D1569692A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4DA631-BB99-4718-8EFD-38D1569692A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4DA631-BB99-4718-8EFD-38D1569692A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
